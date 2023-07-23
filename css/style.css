@@ -950,7 +950,6 @@ h1, h2, h3, h4, h5, h6 {
     }
     .menu-list {
         visibility: hidden;
-        max-width: 360px;
         width: 100%;
         min-height: 270px;
         position: absolute;
